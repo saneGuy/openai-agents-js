@@ -1,5 +1,16 @@
 # @openai/agents-extensions
 
+## 0.14.0
+
+### Patch Changes
+
+- f7771c1: feat: add default task and turn tracing with a per-run opt-out
+- b0aaeec: fix: preserve AI SDK v3 image tool outputs as image URLs, data, and file IDs
+- 02ef342: feat: add Programmatic Tool Calling with caller-aware replay, runtime-validated Zod outputs, configuration preflight, examples, and explicit unsupported-adapter errors
+- Updated dependencies [f7771c1]
+- Updated dependencies [02ef342]
+  - @openai/agents-core@0.14.0
+
 ## 0.13.5
 
 ### Patch Changes

@@ -1,5 +1,15 @@
 # @openai/agents-core
 
+## 0.14.0
+
+### Minor Changes
+
+- f7771c1: feat: add default task and turn tracing with a per-run opt-out
+
+### Patch Changes
+
+- 02ef342: feat: add Programmatic Tool Calling with caller-aware replay, runtime-validated Zod outputs, configuration preflight, examples, and explicit unsupported-adapter errors
+
 ## 0.13.5
 
 ### Patch Changes
